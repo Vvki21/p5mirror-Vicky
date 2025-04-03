@@ -34,7 +34,7 @@ bin/mirror.sh --user p5name --verbose
 
 ```
 # Edit this line for your editor.p5js user name
-bin/mirror.sh --vvki
+bin/mirror.sh -user vvki
 
 bin/mirror.sh --vvki --clean
 bin/mirror.sh --vvki --full
